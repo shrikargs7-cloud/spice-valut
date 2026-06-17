@@ -1,14 +1,14 @@
-# 🌶️ Spice Vault
+#  Spice Vault
 
 A modern spice discovery and e-commerce platform designed to help users explore, learn about, and purchase premium spices through an intuitive and responsive web experience.
 
-## 🚀 Live Demo
+## Live Demo
 
 🔗 https://quadra-spice-flow.base44.app
 
 ---
 
-## 📌 Overview
+##  Overview
 
 Spice Vault is a React-based web application that provides a seamless user experience for discovering and managing spice products. The platform combines modern UI design, responsive layouts, and scalable frontend architecture to deliver a smooth shopping experience across desktop and mobile devices.
 
@@ -16,7 +16,7 @@ The project follows a component-driven architecture and leverages reusable hooks
 
 ---
 
-## ✨ Features
+##  Features
 
 * Modern and responsive user interface
 * Product browsing and discovery
@@ -31,7 +31,7 @@ The project follows a component-driven architecture and leverages reusable hooks
 
 ---
 
-## 🛠️ Tech Stack
+##  Tech Stack
 
 ### Frontend
 
@@ -58,7 +58,7 @@ The project follows a component-driven architecture and leverages reusable hooks
 
 ---
 
-## 📂 Project Structure
+##  Project Structure
 
 ```text
 spice-vault/
@@ -83,7 +83,7 @@ spice-vault/
 
 ---
 
-## ⚙️ Installation
+##  Installation
 
 ### Clone the Repository
 
@@ -117,7 +117,7 @@ npm run build
 
 ---
 
-## 🎯 Key Highlights
+##  Key Highlights
 
 * Built using modern React development practices.
 * Organized project structure for scalability.
@@ -128,7 +128,7 @@ npm run build
 
 ---
 
-## 📸 Screenshots
+##  Screenshots
 
 ### Home Page
 
@@ -156,7 +156,7 @@ npm run build
 
 ---
 
-## 🔮 Future Enhancements
+##  Future Enhancements
 
 * AI-powered spice recommendations
 * User authentication and profiles
@@ -169,7 +169,7 @@ npm run build
 
 ---
 
-## 🧠 What I Learned
+##  What I Learned
 
 * Building scalable React applications
 * Structuring large frontend projects
@@ -180,7 +180,7 @@ npm run build
 
 ---
 
-## 👨‍💻 Author
+##  Author
 
 **Shrikar G S**
 
@@ -188,6 +188,6 @@ GitHub: https://github.com/shrikargs7-cloud
 
 ---
 
-## ⭐ Support
+##  Support
 
 If you found this project useful, consider giving it a star.
